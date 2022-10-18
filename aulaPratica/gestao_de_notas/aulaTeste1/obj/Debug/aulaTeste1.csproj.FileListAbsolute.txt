@@ -1,0 +1,10 @@
+c:\users\unip\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\bin\Debug\aulaTeste1.exe.config
+c:\users\unip\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\bin\Debug\aulaTeste1.exe
+c:\users\unip\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\bin\Debug\aulaTeste1.pdb
+c:\users\unip\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\obj\Debug\aulaTeste1.csprojResolveAssemblyReference.cache
+c:\users\unip\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\obj\Debug\aulaTeste1.Properties.Resources.resources
+c:\users\unip\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\obj\Debug\aulaTeste1.csproj.GenerateResource.Cache
+c:\users\unip\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\obj\Debug\aulaTeste1.exe
+c:\users\unip\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\obj\Debug\aulaTeste1.pdb
+c:\users\unip\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\obj\Debug\aulaTeste1.frmGestaoNotas.resources
+C:\Users\UNIP\documents\visual studio 2012\Projects\aulaTeste1\aulaTeste1\obj\Debug\aulaTeste1.frmCadastroAluno.resources

@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Login_Atualizado\Login.Controle\bin\Debug\Login.Controle.dll
+C:\Users\Aluno\Desktop\Login_Atualizado\Login.Controle\bin\Debug\Login.Controle.pdb
+C:\Users\Aluno\Desktop\Login_Atualizado\Login.Controle\bin\Debug\Login.Modelo.dll
+C:\Users\Aluno\Desktop\Login_Atualizado\Login.Controle\bin\Debug\Login.Modelo.pdb
+C:\Users\Aluno\Desktop\Login_Atualizado\Login.Controle\obj\Debug\Login.Controle.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Login_Atualizado\Login.Controle\obj\Debug\Login.Controle.dll
+C:\Users\Aluno\Desktop\Login_Atualizado\Login.Controle\obj\Debug\Login.Controle.pdb
+C:\Users\aluno\Documents\Login_Atualizado_MVC\Login.Controle\bin\Debug\Login.Controle.dll
+C:\Users\aluno\Documents\Login_Atualizado_MVC\Login.Controle\bin\Debug\Login.Controle.pdb
+C:\Users\aluno\Documents\Login_Atualizado_MVC\Login.Controle\bin\Debug\Login.Modelo.dll
+C:\Users\aluno\Documents\Login_Atualizado_MVC\Login.Controle\bin\Debug\Login.Modelo.pdb
+C:\Users\aluno\Documents\Login_Atualizado_MVC\Login.Controle\obj\Debug\Login.Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Login_Atualizado_MVC\Login.Controle\obj\Debug\Login.Controle.dll
+C:\Users\aluno\Documents\Login_Atualizado_MVC\Login.Controle\obj\Debug\Login.Controle.pdb
